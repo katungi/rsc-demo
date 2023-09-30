@@ -1,0 +1,1 @@
+export const REMOTE_URL = 'https://theofficeapi.dev/api'
